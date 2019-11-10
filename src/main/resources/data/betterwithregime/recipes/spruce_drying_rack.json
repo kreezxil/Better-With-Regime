@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "eanimod:post_spruce"}
+  ],
+  "result": {
+    "item": "silents_mechanisms:spruce_drying_rack",
+    "count": 1
+  }
+}

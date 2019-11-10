@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "eanimod:post_acacia"}
+  ],
+  "result": {
+    "item": "silents_mechanisms:acacia_drying_rack",
+    "count": 1
+  }
+}

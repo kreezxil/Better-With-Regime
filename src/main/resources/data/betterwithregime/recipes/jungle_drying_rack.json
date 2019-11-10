@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "eanimod:post_jungle"}
+  ],
+  "result": {
+    "item": "silents_mechanisms:jungle_drying_rack",
+    "count": 1
+  }
+}
